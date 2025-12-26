@@ -3534,7 +3534,7 @@ object {
     float: left;
     padding: 4px 0;
     position: absolute;
-    top: 53px;
+    top: auto;
     left: -99999em;
     width: 266px;
     z-index: 99999;
